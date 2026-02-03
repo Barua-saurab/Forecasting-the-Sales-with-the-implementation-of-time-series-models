@@ -108,15 +108,7 @@ These visualizations helped identify:
 
 ---
 
-## 🔮 Future Sales Forecast
 
-### Next 4 Weeks Forecast
-| Week | Forecasted Sales |
-|-----|------------------|
-| Week 1 | 337,209 |
-| Week 2 | 292,533 |
-| Week 3 | 287,513 |
-| Week 4 | 305,168 |
 
 ### 🎯 Total Monthly Sales Target
 **1,222,422.98**
